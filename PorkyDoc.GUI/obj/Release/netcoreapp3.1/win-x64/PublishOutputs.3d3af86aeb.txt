@@ -1,0 +1,15 @@
+D:\Fiverr_Tasks\Windows Forms\porky_doc\docu\PowerDocu-v-1.2.4\PorkyDoc.GUI\bin\Release\netcoreapp3.1\win-x64\publish\Resources\styles.xml
+D:\Fiverr_Tasks\Windows Forms\porky_doc\docu\PowerDocu-v-1.2.4\PorkyDoc.GUI\bin\Release\netcoreapp3.1\win-x64\publish\Resources\ConnectorIcons\connectors.json
+D:\Fiverr_Tasks\Windows Forms\porky_doc\docu\PowerDocu-v-1.2.4\PorkyDoc.GUI\bin\Release\netcoreapp3.1\win-x64\publish\Resources\ConnectorIcons\GenerateConnectorMapping.ps1
+D:\Fiverr_Tasks\Windows Forms\porky_doc\docu\PowerDocu-v-1.2.4\PorkyDoc.GUI\bin\Release\netcoreapp3.1\win-x64\publish\Resources\DefaultSettings\AppDefaultSetting.json
+D:\Fiverr_Tasks\Windows Forms\porky_doc\docu\PowerDocu-v-1.2.4\PorkyDoc.GUI\bin\Release\netcoreapp3.1\win-x64\publish\Resources\DefaultSettings\ControlDefaultSetting.json
+D:\Fiverr_Tasks\Windows Forms\porky_doc\docu\PowerDocu-v-1.2.4\PorkyDoc.GUI\bin\Release\netcoreapp3.1\win-x64\publish\Resources\DefaultSettings\ScreenDefaultSetting.json
+D:\Fiverr_Tasks\Windows Forms\porky_doc\docu\PowerDocu-v-1.2.4\PorkyDoc.GUI\bin\Release\netcoreapp3.1\win-x64\publish\Resources\security-role-access-level-basic.png
+D:\Fiverr_Tasks\Windows Forms\porky_doc\docu\PowerDocu-v-1.2.4\PorkyDoc.GUI\bin\Release\netcoreapp3.1\win-x64\publish\Resources\security-role-access-level-deep.png
+D:\Fiverr_Tasks\Windows Forms\porky_doc\docu\PowerDocu-v-1.2.4\PorkyDoc.GUI\bin\Release\netcoreapp3.1\win-x64\publish\Resources\security-role-access-level-global.png
+D:\Fiverr_Tasks\Windows Forms\porky_doc\docu\PowerDocu-v-1.2.4\PorkyDoc.GUI\bin\Release\netcoreapp3.1\win-x64\publish\Resources\security-role-access-level-local.png
+D:\Fiverr_Tasks\Windows Forms\porky_doc\docu\PowerDocu-v-1.2.4\PorkyDoc.GUI\bin\Release\netcoreapp3.1\win-x64\publish\Resources\security-role-access-level-none.png
+D:\Fiverr_Tasks\Windows Forms\porky_doc\docu\PowerDocu-v-1.2.4\PorkyDoc.GUI\bin\Release\netcoreapp3.1\win-x64\publish\Icons\porkydoc.ico
+D:\Fiverr_Tasks\Windows Forms\porky_doc\docu\PowerDocu-v-1.2.4\PorkyDoc.GUI\bin\Release\netcoreapp3.1\win-x64\publish\Icons\PowerDocu.ico
+D:\Fiverr_Tasks\Windows Forms\porky_doc\docu\PowerDocu-v-1.2.4\PorkyDoc.GUI\bin\Release\netcoreapp3.1\win-x64\publish\GraphvizWrapper.pdb
+D:\Fiverr_Tasks\Windows Forms\porky_doc\docu\PowerDocu-v-1.2.4\PorkyDoc.GUI\bin\Release\netcoreapp3.1\win-x64\publish\PorkyDoc.GUI.exe

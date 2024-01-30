@@ -1,0 +1,421 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PorkyDoc.GUI\\PorkyDoc.GUI.csproj": {}
+  },
+  "projects": {
+    "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\modules\\PowerDocu.Common\\PowerDocu.Common\\PowerDocu.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\modules\\PowerDocu.Common\\PowerDocu.Common\\PowerDocu.Common.csproj",
+        "projectName": "PowerDocu.Common",
+        "projectPath": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\modules\\PowerDocu.Common\\PowerDocu.Common\\PowerDocu.Common.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\modules\\PowerDocu.Common\\PowerDocu.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.14.0, )"
+            },
+            "Grynwald.MarkdownGenerator": {
+              "target": "Package",
+              "version": "[2.5.34, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Rubjerg.Graphviz": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Svg": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PorkyDoc.GUI\\PorkyDoc.GUI.csproj": {
+      "version": "1.2.4",
+      "restore": {
+        "projectUniqueName": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PorkyDoc.GUI\\PorkyDoc.GUI.csproj",
+        "projectName": "PorkyDoc.GUI",
+        "projectPath": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PorkyDoc.GUI\\PorkyDoc.GUI.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PorkyDoc.GUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.AppDocumenter\\PowerDocu.AppDocumenter.csproj": {
+                "projectPath": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.AppDocumenter\\PowerDocu.AppDocumenter.csproj"
+              },
+              "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.FlowDocumenter\\PowerDocu.FlowDocumenter.csproj": {
+                "projectPath": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.FlowDocumenter\\PowerDocu.FlowDocumenter.csproj"
+              },
+              "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.SolutionDocumenter\\PowerDocu.SolutionDocumenter.csproj": {
+                "projectPath": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.SolutionDocumenter\\PowerDocu.SolutionDocumenter.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Fontawesome.sharp": {
+              "target": "Package",
+              "version": "[5.15.3, )"
+            },
+            "System.IO.Packaging": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.AppDocumenter\\PowerDocu.AppDocumenter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.AppDocumenter\\PowerDocu.AppDocumenter.csproj",
+        "projectName": "PowerDocu.AppDocumenter",
+        "projectPath": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.AppDocumenter\\PowerDocu.AppDocumenter.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.AppDocumenter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\modules\\PowerDocu.Common\\PowerDocu.Common\\PowerDocu.Common.csproj": {
+                "projectPath": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\modules\\PowerDocu.Common\\PowerDocu.Common\\PowerDocu.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.FlowDocumenter\\PowerDocu.FlowDocumenter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.FlowDocumenter\\PowerDocu.FlowDocumenter.csproj",
+        "projectName": "PowerDocu.FlowDocumenter",
+        "projectPath": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.FlowDocumenter\\PowerDocu.FlowDocumenter.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.FlowDocumenter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\modules\\PowerDocu.Common\\PowerDocu.Common\\PowerDocu.Common.csproj": {
+                "projectPath": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\modules\\PowerDocu.Common\\PowerDocu.Common\\PowerDocu.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.SolutionDocumenter\\PowerDocu.SolutionDocumenter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.SolutionDocumenter\\PowerDocu.SolutionDocumenter.csproj",
+        "projectName": "PowerDocu.SolutionDocumenter",
+        "projectPath": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.SolutionDocumenter\\PowerDocu.SolutionDocumenter.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.SolutionDocumenter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\modules\\PowerDocu.Common\\PowerDocu.Common\\PowerDocu.Common.csproj": {
+                "projectPath": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\modules\\PowerDocu.Common\\PowerDocu.Common\\PowerDocu.Common.csproj"
+              },
+              "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.AppDocumenter\\PowerDocu.AppDocumenter.csproj": {
+                "projectPath": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.AppDocumenter\\PowerDocu.AppDocumenter.csproj"
+              },
+              "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.FlowDocumenter\\PowerDocu.FlowDocumenter.csproj": {
+                "projectPath": "D:\\Fiverr_Tasks\\Windows Forms\\porky_doc\\docu\\PowerDocu-v-1.2.4\\PowerDocu.FlowDocumenter\\PowerDocu.FlowDocumenter.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
